@@ -1,0 +1,23 @@
+﻿<Properties StartupConfiguration="{0067199F-485F-BBE3-38AE-43A1DA8D6307}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/UIBehavior.cs">
+    <Files>
+      <File FileName="Assets/Scripts/TestScripts/TestEconomics.cs" Line="13" Column="19" />
+      <File FileName="Assets/Scripts/MainBaseManager.cs" />
+      <File FileName="Assets/Scripts/Building.cs" />
+      <File FileName="Assets/Scripts/SolarPanelManager.cs" />
+      <File FileName="Assets/Scripts/GarageManager.cs" />
+      <File FileName="Assets/Scripts/UIBehavior.cs" Line="48" Column="1" />
+      <File FileName="Assets/Scripts/Economic.cs" />
+      <File FileName="Assets/Scripts/Boostrap.cs" />
+      <File FileName="Assets/Scripts/AudioManager.cs" />
+      <File FileName="Assets/Scripts/TimerManager.cs" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="7b313b5c-6b47-49fe-a81c-faf79454edee" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
