@@ -32,7 +32,7 @@ public class Economic : MonoBehaviour
         }
         else if (instance == this)
         {
-            Destroy(gameObject);
+           // Destroy(gameObject);
         }
     }
 
